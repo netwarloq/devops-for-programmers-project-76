@@ -1,5 +1,4 @@
 - hosts: all
-  gather_facts: no
   tasks:
     - name: Update pkgs apt
       ansible.builtin.apt:
