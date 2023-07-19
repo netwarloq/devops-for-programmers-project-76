@@ -1,0 +1,9 @@
+terraform/.terraform
+terraform/.terraform.lock.hcl
+terraform/secret.*
+terraform/*.auto.tfvars
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/*.backup
+
+group_vars/webservers/vault.yml
