@@ -14,7 +14,6 @@ namepj = "name project for example redmine"
 * then init:
 ```
 terraform init
-
 ```
 
 * check plan
